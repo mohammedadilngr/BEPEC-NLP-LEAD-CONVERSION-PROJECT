@@ -1,3 +1,4 @@
+[NLP project architect.pdf](https://github.com/mohammedadilngr/BEPEC-NLP-LEAD-CONVERSION-PROJECT/files/7154355/NLP.project.architect.pdf)
 # Project Title: 
 ### Adding Intelligence to our CRM and improving conversion ratio using Artificial Intelligence
 ## Project Description: 
