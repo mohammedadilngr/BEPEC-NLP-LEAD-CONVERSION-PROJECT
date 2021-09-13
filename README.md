@@ -1,4 +1,3 @@
-[NLP project architect.pdf](https://github.com/mohammedadilngr/BEPEC-NLP-LEAD-CONVERSION-PROJECT/files/7154355/NLP.project.architect.pdf)
 # Project Title: 
 ### Adding Intelligence to our CRM and improving conversion ratio using Artificial Intelligence
 ## Project Description: 
@@ -11,3 +10,10 @@
 #### Provide us with product demo on any web application for both task-1 and task-2
 ### Data Description:
 #### Customer Name, Location of the customer, Status whether lead converted or not converted and description with business executive name which explain about basic conversation between client and business executive.
+## PROJECT ARCHITECTURE
+![Screenshot (48)](https://user-images.githubusercontent.com/86179272/133087305-78034db0-73c0-4355-926b-57c318be38f1.png)
+## MODEL BUILDING: 
+#### Task 1 : Support Vector Machine using radial basis function kernel 
+#### Task 2 : Support Vector Machine using radial basis function kernel
+## Model Deployment:
+#### 
